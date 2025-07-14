@@ -63,7 +63,7 @@ The dataset used is from Kaggle:
 ## 🔗 Project Link
 
 **GitHub Repository:**  
-[Click here to view the project](https://github.com/Priyanshu2005-gb/Fake-News-Detection-model/upload/main)
+[Click here to view the project](https://github.com/Priyanshu2005-gb/Fake-News-Detection-model)
 
 
 ---
